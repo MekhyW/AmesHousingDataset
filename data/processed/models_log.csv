@@ -1,0 +1,5 @@
+Linear Regression Scaled,12.77,2.61
+Lasso,13.15,1.78
+Random Forest,13.22,1.48
+Gradient Boosting,11.35,1.40
+knn,19.22,1.09
